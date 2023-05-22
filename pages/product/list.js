@@ -1,7 +1,7 @@
-export default function ProductListPage(){
+export default function ProductListPage() {
     return (
         <div>
-            Product
+            Product 
             ProductListPage
             
         </div>

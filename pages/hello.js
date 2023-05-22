@@ -1,7 +1,7 @@
-export default function HelloPage(){
+export default function HelloPage() {
     return (
         <div>
-            hello again
+            hello page
         </div>
     )
 }

@@ -1,4 +1,4 @@
-export default function UserSettingPage(){
+export default function UserSettingPage() {
     return (
         <div>
             UserSettingPage

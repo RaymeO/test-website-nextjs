@@ -1,4 +1,4 @@
-export default function ElectionPage(){
+export default function ElectionPage() {
     return (
         <div>
             ElectionPage
