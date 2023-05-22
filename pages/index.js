@@ -57,7 +57,7 @@ export default function IndexPage(props) {
       // Remove effect-listener
       window.removeEventListener('scroll', handler)
     }
-  }, [])
+  }, )
 
   const loadList = (isRefresh = false) => {
     if (!isRefresh) {
